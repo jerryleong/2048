@@ -42,6 +42,7 @@ input {
     input[type="text"]:-ms-input-placeholder, input[type="email"]:-ms-input-placeholder {
       color: #9d948c; }
 
+
 .heading:after {
   content: "";
   display: block;
